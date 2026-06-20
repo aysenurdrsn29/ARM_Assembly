@@ -1,4 +1,4 @@
-# ARM Cortex-A9 Assembly: Bit-Level Logic & Data Manipulation
+# ARM Cortex-A9 Assembly: Bit-Level Logic and Data Manipulation
 
 This repository contains ARMv7 assembly implementations focusing on logic instructions, which are essential for manipulating bit strings and handling data at the bit level.
 
@@ -19,4 +19,4 @@ This repository contains ARMv7 assembly implementations focusing on logic instru
 * The system elegantly packs the results: the even parity bit goes into the Least Significant Bit (LSB) of register `R8`, while the odd parity bit is shifted into the Most Significant Bit (MSB) of register `R8`.
 
 ## Execution
-These assembly routines are optimized for the ARM Cortex-A9 architecture and can be executed natively on compatible development boards or emulators without requiring external hardware dependencies.
+* These assembly routines are optimized for the ARM Cortex-A9 architecture and can be executed natively on compatible development boards or emulators without requiring external hardware dependencies.
